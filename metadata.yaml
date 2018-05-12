@@ -1,0 +1,32 @@
+_repo: Die-Germania_39573
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39573-tei/images/cover.jpg
+creator:
+  author:
+    agent_name: Tacitus, Cornelius
+    aliases:
+    - Tacitus, Caius Cornelius
+    - Tacitus, Gaius Cornelius
+    - Tacitus, Publius Cornelius
+    birthdate: 56
+    deathdate: 117
+    gutenberg_agent_id: '2591'
+    url: http://www.gutenberg.org/2009/agents/2591
+    wikipedia: http://en.wikipedia.org/wiki/Tacitus
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39573'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germanic peoples -- Early works to 1800'
+- !lcc 'PA'
+title: Die Germania
+url: http://www.gutenberg.org/ebooks/39573
