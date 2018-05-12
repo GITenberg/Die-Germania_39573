@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2591
     wikipedia: http://en.wikipedia.org/wiki/Tacitus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39573#Die-Germania
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-04-29'
 gutenberg_type: Text
